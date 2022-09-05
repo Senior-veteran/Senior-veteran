@@ -1,8 +1,7 @@
-[![Header](https://github.com/Erkin303m/erkin303m/blob/main/assets/user.png)](https://github.com/Erkin303m/erkin303m/blob/main/assets/user.png)
+[![Header](https://github.com/Senior-veteran/Senior-veteran/blob/main/assets/S.png)](https://github.com/Senior-veteran/Senior-veteran/blob/main/assets/S.png)
 
 ##I am a Frontend developer with 2 years of experience.
 
-Latest YouTube videos
 
 ###Languages and Tools
 
@@ -18,7 +17,7 @@ Latest YouTube videos
 [![Telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram&logoColor=f06292)](https://t.me/MySitesAndPortfolio)
 
 
-[![Erkin303m's GitHub stats](https://github-readme-stats.vercel.app/api?username=erkin303m&show_icons=true&theme=radical)](https://github.com/Erkin303m/erkin303m)
+[![Senior-veteran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Senior-veteran&show_icons=true&theme=radical)](https://github.com/Senior-veteran/Senior-veteran)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
