@@ -17,7 +17,7 @@
 [![Telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram&logoColor=f06292)](https://t.me/MySitesAndPortfolio)
 
 
-[![Senior-veteran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Senior-veteran&show_icons=true&theme=radical)](https://github.com/Senior-veteran/Senior-veteran)
+[![Senior-veteran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Senior-veteran&show_icons=true&theme=dark)](https://github.com/Senior-veteran/Senior-veteran)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
