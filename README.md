@@ -14,7 +14,7 @@
 
 ###Follow me
 
-[![Telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram&logoColor=f06292)](https://t.me/MySitesAndPortfolio)
+[![Telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram&logoColor=f06292)](https://t.me/senior_veteran)
 
 
 [![Senior-veteran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Senior-veteran&show_icons=true&theme=synthwave)](https://github.com/Senior-veteran/Senior-veteran)
